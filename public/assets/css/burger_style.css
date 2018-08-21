@@ -1,0 +1,23 @@
+body{
+    background-color: #1baa33;
+}
+
+ul{
+    border:1px solid black;
+    border-radius:15px;
+}
+
+/* .burgers-list{
+    background-color: green;
+}
+
+.devoured-list{
+    background-color: green;
+} */
+
+#hamPic{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin:auto;
+}
